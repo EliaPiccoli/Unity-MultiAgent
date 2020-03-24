@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{01B77CA6-AC87-2B59-C80D-18AB6F772965}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MacBLAS", "MacBLAS.csproj", "{1EAB4F62-C879-1A60-E655-61215BA65745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iOSBLAS", "iOSBLAS.csproj", "{0880B6C6-3DFD-2B19-CFDE-EDEBBBD91DF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{9C0B3E0E-81D5-4007-704D-89485A39FE44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barracuda-editor", "Barracuda-editor.csproj", "{0DB592B0-A226-0089-F940-E3394345EBAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01B77CA6-AC87-2B59-C80D-18AB6F772965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B77CA6-AC87-2B59-C80D-18AB6F772965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B77CA6-AC87-2B59-C80D-18AB6F772965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B77CA6-AC87-2B59-C80D-18AB6F772965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EAB4F62-C879-1A60-E655-61215BA65745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EAB4F62-C879-1A60-E655-61215BA65745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EAB4F62-C879-1A60-E655-61215BA65745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EAB4F62-C879-1A60-E655-61215BA65745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0880B6C6-3DFD-2B19-CFDE-EDEBBBD91DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0880B6C6-3DFD-2B19-CFDE-EDEBBBD91DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0880B6C6-3DFD-2B19-CFDE-EDEBBBD91DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0880B6C6-3DFD-2B19-CFDE-EDEBBBD91DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C0B3E0E-81D5-4007-704D-89485A39FE44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0B3E0E-81D5-4007-704D-89485A39FE44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0B3E0E-81D5-4007-704D-89485A39FE44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0B3E0E-81D5-4007-704D-89485A39FE44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DB592B0-A226-0089-F940-E3394345EBAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB592B0-A226-0089-F940-E3394345EBAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB592B0-A226-0089-F940-E3394345EBAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB592B0-A226-0089-F940-E3394345EBAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
